@@ -19843,3 +19843,73 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2023-02-22 14:00:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-02-22 14:00:38 INFO  ApacheHttpClient.completed(26) - publish responseCode =  200
 2023-02-22 14:00:38 INFO  ApacheHttpClient.completed(26) - publish responseCode =  200
+2023-03-01 09:45:10 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-03-01 09:45:10 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-01 09:45:17 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-03-01 09:45:17 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
